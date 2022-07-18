@@ -13,7 +13,7 @@ st.info('Professional in Business Administration, currently working in Business 
 
 icon_size = 20
 
-st_button('youtube', 'https://youtube.com/dataprofessor', 'Data Professor YouTube channel', icon_size)
+st_button('youtube', 'https://www.youtube.com/channel/UCAdEr61O-jMY0SyzApo91iA', 'Inteligencia de Negocios Para Todos YouTube channel', icon_size)
 st_button('youtube', 'https://youtube.com/codingprofessor', 'Coding Professor YouTube channel', icon_size)
 st_button('medium', 'https://data-professor.medium.com/', 'Read my Blogs', icon_size)
 st_button('twitter', 'https://twitter.com/thedataprof/', 'Follow me on Twitter', icon_size)
