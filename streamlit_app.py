@@ -9,7 +9,7 @@ col2.image(Image.open('dp.png'))
 
 st.header('Camilo Diaz C, 25 Years Old')
 
-st.info('Developer Advocate, Content Creator and ex-Professor with an interest in Data Science and Bioinformatics')
+st.info('Professioanal in Business Administration, currently working in Business Intelligence and creating Educational Content ')
 
 icon_size = 20
 
