@@ -9,7 +9,7 @@ col2.image(Image.open('dp.png'))
 
 st.header('Camilo Diaz C, 25 Years Old')
 
-st.info('Professional in Business Administration, currently working in Business Intelligence and creating educational content ')
+st.info('Professional in Business Administration, currently working in Business Intelligence and creating educational content. You can reach out to me at camilodiaz961011@gmail.com ')
 
 icon_size = 20
 
