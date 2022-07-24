@@ -14,5 +14,5 @@ st.info('Professional in Business Administration, currently working in Business 
 icon_size = 20
 
 st_button('youtube', 'https://www.youtube.com/channel/UCAdEr61O-jMY0SyzApo91iA', 'Inteligencia de Negocios Para Todos', icon_size)
-st_button('linkedin', 'https://www.linkedin.com/in/camilo-diaz-c-21a842b6/', 'Follow me on LinkedIn', icon_size)
+st_button('linkedin', 'https://www.linkedin.com/in/camilodiazc/', 'Follow me on LinkedIn', icon_size)
 st_button('cup', 'https://www.buymeacoffee.com/camilodiaz', 'Buy me a Coffee', icon_size)
