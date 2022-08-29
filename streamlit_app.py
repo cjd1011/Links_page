@@ -16,3 +16,4 @@ icon_size = 20
 st_button('youtube', 'https://www.youtube.com/channel/UCAdEr61O-jMY0SyzApo91iA', 'Inteligencia de Negocios Para Todos', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/camilodiazc/', 'Follow me on LinkedIn', icon_size)
 st_button('cup', 'https://www.buymeacoffee.com/camilodiaz', 'Buy me a Coffee', icon_size)
+st_button('cup', 'https://cjd1011.github.io/Camilo-Diaz-Portfolio/', 'Portfolio', icon_size)
